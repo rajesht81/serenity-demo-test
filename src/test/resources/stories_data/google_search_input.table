@@ -1,0 +1,4 @@
+|Search Text        |Search Results                                        |
+|Serenity BDD       |Serenity BDD - Automated Acceptance Testing with Style| -- This one will be success
+|Blah Blah Text     |Serenity BDD - Automated Acceptance Testing with Style| -- This one will be failure
+|-- Some Input Text |Expected Output                                       | -- This is commented Test Data and Serenity will skip this data
